@@ -1,0 +1,18 @@
+{
+  "title": "Orzの海の物語",
+  "language": "ja",
+  "entry": [
+    {
+      "path": "src/index.html",
+      "rel": "contents"
+    },
+    "src/chapters/02-chapter01.html",
+    "src/chapters/03-chapter02.html"
+  ],
+  "output": [
+    {
+      "path": "dist",
+      "format": "webpub"
+    }
+  ]
+}

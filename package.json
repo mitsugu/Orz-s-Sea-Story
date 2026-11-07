@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "dependencies": {
+    "@vivliostyle/cli": "^11.4.0"
+  },
+  "scripts": {
+    "preview": "vivliostyle preview src/index.html",
+    "build:webpub": "vivliostyle build src/index.html -f webpub -o dist/webpub",
+    "build:pdf": "vivliostyle build src/index.html -o dist/book.pdf"
+  }
+}
