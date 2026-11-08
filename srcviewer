@@ -1,0 +1,3 @@
+#! /bin/sh
+export WAYLAND_DISPLAY=wayland-0
+npx vivliostyle preview src/index.html

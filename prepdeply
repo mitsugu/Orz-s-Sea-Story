@@ -1,0 +1,6 @@
+#! /bin/sh
+rm -fr docs
+mkdir -p docs
+cp -a dist/. docs/
+cp -a viewer docs/
+touch docs/.nojekyll
