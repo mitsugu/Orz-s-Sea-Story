@@ -7,7 +7,7 @@
   "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
   "name": "Orzの海の物語",
   "inLanguage": "ja",
-  "dateModified": "2026-11-07T16:17:06.939Z",
+  "dateModified": "2026-11-08T07:25:32.659Z",
   "readingOrder": [
     {
       "url": "src/index.html",
@@ -22,6 +22,22 @@
     {
       "url": "src/chapters/03-chapter02.html",
       "name": "海恋の頃"
+    },
+    {
+      "url": "src/chapters/04-chapter03.html",
+      "name": "バディダイブ (1) 〜はじめに〜"
+    },
+    {
+      "url": "src/chapters/05-chapter04.html",
+      "name": "バディダイブ (2) 〜児島さん時代 - NAUI Open Water I の講習から始まる海恋時代 - マニュアル＋αの時代〜"
+    },
+    {
+      "url": "src/chapters/06-chapter05.html",
+      "name": "バディダイブ (3) 〜はじめての管理者を伴わないバディ・ダイブ〜"
+    },
+    {
+      "url": "src/chapters/07-chapter06.html",
+      "name": "バディダイブ (4) 〜小野寺くんとの出会い - 魂としてのバディ〜"
     }
   ],
   "resources": [],
